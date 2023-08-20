@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    background-color: #0387cc;
+    padding: 20px;
+    
+}
+.btn{
+    display: flex;
+    align-items: center;
+}
+.btn-left{
+    padding: 5% 10px;
+    margin-right: 20px;
+    border: none;
+    border-radius: 5px;
+}
+.btn-right{
+    padding: 5% 10px;
+    margin-right: 20px;
+    border: none;
+    border-radius: 5px;
+}
