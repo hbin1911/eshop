@@ -1,0 +1,43 @@
+.container-in{
+    display: flex;
+    justify-content: center; 
+    background-color: rgb(17, 92, 231);
+    height: 50vh;
+    width: 30%;
+    margin-left: 35%;
+    margin-top: 5%;
+    border-radius: 15px;
+}
+
+.signin{
+    align-items: center;
+    margin: 40px 0;
+}
+.form-control{
+    margin-top: 3px;
+    margin-bottom: 5px;
+    padding: 8px;
+}
+#label{
+    margin-bottom: 25px;
+    color: white;
+}
+.btn-sign{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+}
+.btn-in{
+    margin: 5px 0;
+    background-color: rgb(241, 52, 52);
+    color: white;
+    padding: 5% 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.btn-in:hover{
+    background-color: white;
+    color: black;
+}

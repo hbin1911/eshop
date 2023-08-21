@@ -7,7 +7,7 @@ export default function NavBar() {
         <header className='container'>
       
         <div className='logo'>
-        <h2>upGrad</h2>
+        <h2>upGrad eShop</h2>
         </div>
         <div className='btn'>
             <button className='btn-left'>Login</button>
